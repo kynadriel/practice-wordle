@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  border-bottom: 1px solid #3a3a3c;
+  height: 52px;
+  justify-content: space-between;
+  padding: 0 16px;
+}
+
+.title {
+  font-family: "nyt-karnakcondensed";
+  font-weight: 700;
+  font-size: 37px;
+  letter-spacing: 0.01em;
+  line-height: 100%;
+}
+
+.icon {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 4px;
+}

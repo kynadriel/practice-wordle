@@ -1,0 +1,11 @@
+.key[data-state="correct"] {
+  background-color: var(--color-correct);
+}
+
+.key[data-state="abscent"] {
+  background-color: var(--color-abscent);
+}
+
+.key[data-state="present"] {
+  background-color: var(--color-present);
+}
